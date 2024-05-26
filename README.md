@@ -38,7 +38,7 @@ Teniendo en cuenta estos conceptos abordaremos dos ejemplos muy prometedores de 
 
 **PlayCanvas** es un motor de juegos y entorno de desarrollo basado en la nube que facilita la creación, edición y publicación colaborativa de aplicaciones y juegos 3D en tiempo real. Integra tecnologías como gráficos **3D**, audio, scripting y capacidades interactivas utilizando el estándar **WebGL** para asegurar compatibilidad con la mayoría de los navegadores modernos sin necesidad de plugins. Esta plataforma permite la colaboración en tiempo real entre equipos geográficamente dispersos, permitiendo a los usuarios trabajar simultáneamente en un proyecto y ver los cambios en directo, optimizando así el desarrollo y reduciendo los tiempos de producción. Su interfaz visual incluye un editor de escenas 3D y un sistema de scripting basado en **JavaScript**, que permite a los desarrolladores asignar comportamientos personalizados a los objetos y probar cambios instantáneamente, mejorando el ciclo de desarrollo.
 
-![Alt text](./images/pc_pj.png?raw=true "Ilustración 1: Captura de pantalla de un proyecto de PlayCanvas (Proyecto personal)")
+![Alt text](./images/pc_pj.png?raw=true "Ilustración 1: Captura de pantalla de un proyecto de PlayCanvas (Proyecto personal)")  
 *Ilustración 1: Captura de pantalla de un proyecto de PlayCanvas (Proyecto personal)*
 
 Como observa Manovich, «Los programas de software son como una especie del ámbito ecológico; en este caso, el entorno compartido de un ordenador digital. Una vez “liberados” (al mercado), empiezan a interaccionar, mutar y producir híbridos» (El Software toma el control, p. 402). PlayCanvas integra múltiples tipos de medios para crear experiencias ricas y envolventes, se enumeran a continuación:
@@ -47,7 +47,7 @@ Como observa Manovich, «Los programas de software son como una especie del ámb
 - **Interactividad**: A través del scripting en JavaScript, habilita interacciones complejas y personalizadas.
 - **Realidad Virtual y Aumentada**: Ofrece soporte para VR y AR, permitiendo la creación de experiencias que superponen o sumergen al usuario en mundos virtuales.
 
-![Alt text](./images/pc_ar.png?raw=true "Ilustración 2: Proyecto 8thWall y PlayCanvas. Inmersive AR experience")
+![Alt text](./images/pc_ar.png?raw=true "Ilustración 2: Proyecto 8thWall y PlayCanvas. Inmersive AR experience")  
 *Ilustración 2: Proyecto 8thWall y PlayCanvas. Inmersive AR experience*
 
 Manovich (2013) explica que la «softwarización» de los medios no conduce a una simple convergencia sino que una vez los formatos de representación, las técnicas de creación de contenido y las interfaces de acceso fueron disociados de sus bases físicas y traducidos a software, estos elementos empezaron a interrelacionarse y produjeron nuevos híbridos (p. 212).
@@ -66,7 +66,7 @@ PlayCanvas incorpora y expande las estrategias de hibridación de medios discuti
 
 Según Manovich, «la hibridación agrupa técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones» (p.213). Habiendo explorado PlayCanvas y su capacidad para integrar la AR (realidad aumentada) en sus aplicaciones, ahora nos centraremos en el estudio específico de Quiver, mientras discutimos aspectos generales de la realidad aumentada. **Quiver** es una aplicación orientada principalmente hacia el ámbito educativo y de entretenimiento, diseñada especialmente para niños. Funciona permitiendo a los usuarios colorear dibujos en un libro que, al ser escaneados con la cámara de un dispositivo móvil o tableta, se transforman en animaciones tridimensionales interactivas gracias a la tecnología de realidad aumentada.
 
-![Alt text](./images/quiver.png?raw=true "Ilustración 3: Captura de pantalla del editor de PlayCanvas. https://playcanvas.com/products/editor")
+![Alt text](./images/quiver.png?raw=true "Ilustración 3: Captura de pantalla del editor de PlayCanvas. https://playcanvas.com/products/editor")  
 *Ilustración 3: Captura de pantalla de Quiver. [https://quivervision.com/](https://quivervision.com/)*
 
 La realidad aumentada aprovecha tecnologías avanzadas como la visualización, la detección de movimiento, el procesamiento de imágenes y los gráficos computarizados para superponer información digital en el entorno físico del usuario en tiempo real. Además, Quiver utiliza estos mismos principios para enriquecer la experiencia interactiva con dibujos coloreados a mano. Mediante la adquisición de un libro de dibujos infantil y el uso de la cámara de un dispositivo móvil, los dibujos se escanean y transforman en animaciones tridimensionales. Estas animaciones pueden ser visualizadas y manipuladas por los usuarios en sus pantallas. ¿Interesante, verdad?
